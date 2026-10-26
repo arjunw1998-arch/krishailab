@@ -1,0 +1,87 @@
+1
+00:00:00,350 --> 00:00:00,670
+Hey!
+
+2
+00:00:00,670 --> 00:00:02,990
+70 years ago, machines couldn't talk.
+
+3
+00:00:03,010 --> 00:00:05,270
+So how did they learn? Let's play!
+
+4
+00:00:06,100 --> 00:00:07,780
+Round 1. 1950.
+
+5
+00:00:07,780 --> 00:00:10,380
+A scientist asks: can machines think?
+
+6
+00:00:12,340 --> 00:00:14,520
+1956. One summer meeting
+
+7
+00:00:14,520 --> 00:00:17,420
+gives it a name: Artificial Intelligence!
+
+8
+00:00:20,160 --> 00:00:22,380
+1966. The first chatbot
+
+9
+00:00:22,380 --> 00:00:24,300
+just repeats your words back.
+
+10
+00:00:24,440 --> 00:00:26,240
+People loved it anyway!
+
+11
+00:00:28,100 --> 00:00:30,480
+1997. A computer beats
+
+12
+00:00:30,480 --> 00:00:32,360
+the world chess champion.
+
+13
+00:00:32,460 --> 00:00:34,260
+King down, humans.
+
+14
+00:00:36,100 --> 00:00:38,500
+2012. Machines learn to see.
+
+15
+00:00:40,100 --> 00:00:42,900
+2017. Read every word at once!
+
+16
+00:00:44,100 --> 00:00:46,780
+2022. Chatbots go viral!
+
+17
+00:00:48,725 --> 00:00:50,475
+And then…?
+
+18
+00:00:50,475 --> 00:00:53,095
+Now? AI writes code, draws pictures,
+
+19
+00:00:53,095 --> 00:00:54,575
+and made this whole film.
+
+20
+00:00:54,575 --> 00:00:56,555
+Every frame you saw is code.
+
+21
+00:00:56,975 --> 00:00:58,695
+So… can machines think?
+
+22
+00:00:58,695 --> 00:01:00,495
+Ask me next time!

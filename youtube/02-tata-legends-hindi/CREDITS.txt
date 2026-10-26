@@ -1,0 +1,18 @@
+टाटा लेजेंड्स — Hindi reel (1080×1920), hosted by the owner's mascot (../mascot_v1.png)
+Made in code (SVG pages rendered frame by frame); original synthesized score and foley.
+
+PHOTOGRAPHS (Wikimedia Commons)
+- Jamsetji Tata — "Sir J. N. Tata (cropped).jpg", published 1910, CC BY 4.0 — credit: paperjewels.org postcard collection;
+  https://commons.wikimedia.org/wiki/File:Sir_J._N._Tata.jpg  ← CC BY: keep this credit in the video description.
+- Sir Dorabji Tata — "Dorabji Tata (cropped).jpg", from S.M. Rutnagur (ed.), Electricity in India (1912), public domain;
+  https://commons.wikimedia.org/wiki/File:Dorabji_Tata_(cropped).jpg
+- J.R.D. Tata — "J.R.D. Tata (1955).jpg", Government of India Photo Division, Bombay, Nov 1955, public domain (Commons);
+  https://commons.wikimedia.org/wiki/File:J.R.D._Tata_(1955).jpg
+- Ratan Tata — "RatanTata.jpg", crop of a U.S. Department of State photo (2009), public domain (U.S. government work);
+  https://commons.wikimedia.org/wiki/File:RatanTata.jpg
+All photos shown in black and white, cropped to portraits. No Tata logos or trademarks are used.
+
+VOICE: Kokoro-82M (kokoro-onnx), Hindi voice hm_omega, pitch-shifted per line (Apache 2.0 / MIT).
+FONT: Baloo 2 (Ek Type), SIL OFL 1.1 — fonts/OFL.txt
+TOOLS: lemo-opuscar (MIT) render/master tools and synth code; FFmpeg.
+Unofficial educational film; not affiliated with or endorsed by the Tata Group.
