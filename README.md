@@ -148,3 +148,6 @@ For questions, collaboration opportunities, or project updates, reach out throug
 ---
 
 Krishailab is intentionally set up as a clean, scalable foundation for building ambitious AI-driven products and experiments. As the project evolves, this README can be expanded with architecture diagrams, feature breakdowns, setup guides, and deployment instructions.
+
+
+https://claude.ai/artifact/DuSanbayPU6GmRiESWGTgk#page-dcb81aee8d83
