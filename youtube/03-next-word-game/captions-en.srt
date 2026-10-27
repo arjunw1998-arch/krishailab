@@ -1,0 +1,99 @@
+1
+00:00:00,350 --> 00:00:01,551
+Here's a secret.
+
+2
+00:00:01,551 --> 00:00:03,878
+ChatGPT never plans its answer.
+
+3
+00:00:03,878 --> 00:00:07,480
+It writes one tiny piece at a time, by guessing!
+
+4
+00:00:07,480 --> 00:00:08,880
+Let's play!
+
+5
+00:00:10,225 --> 00:00:10,773
+Round 1!
+
+6
+00:00:10,773 --> 00:00:12,963
+First, your message gets chopped
+
+7
+00:00:12,963 --> 00:00:15,590
+into little pieces, called tokens.
+
+8
+00:00:18,225 --> 00:00:20,089
+Round 2! Guess the next word.
+
+9
+00:00:20,089 --> 00:00:21,439
+The cat sat on the...
+
+10
+00:00:21,439 --> 00:00:22,403
+mat? rug? moon?
+
+11
+00:00:22,403 --> 00:00:23,803
+Mat wins!
+
+12
+00:00:24,100 --> 00:00:25,078
+How does it know?
+
+13
+00:00:25,078 --> 00:00:26,861
+It read a giant library of text
+
+14
+00:00:26,861 --> 00:00:28,599
+and learned the patterns.
+
+15
+00:00:30,225 --> 00:00:30,711
+Round 3!
+
+16
+00:00:30,711 --> 00:00:32,532
+Add the word, and guess again.
+
+17
+00:00:32,532 --> 00:00:33,807
+And again. And again!
+
+18
+00:00:33,807 --> 00:00:35,207
+Super fast.
+
+19
+00:00:36,100 --> 00:00:37,375
+A pinch of randomness,
+
+20
+00:00:37,375 --> 00:00:39,587
+so it doesn't sound like a robot.
+
+21
+00:00:42,725 --> 00:00:45,295
+So... does it really understand you?
+
+22
+00:00:46,475 --> 00:00:48,684
+It's the world's best next-word guesser.
+
+23
+00:00:48,684 --> 00:00:50,120
+And that's enough to write
+
+24
+00:00:50,120 --> 00:00:52,132
+poems, code, and your homework!
+
+25
+00:00:56,225 --> 00:00:58,971
+Follow for more AI in 60 seconds!

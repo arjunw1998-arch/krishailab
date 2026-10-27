@@ -6,6 +6,13 @@ Everything needed to upload the channel's first two Shorts, plus the channel set
 |---|---|---|---|
 | 1 | How Machines Learned to Talk (English, 66 s) | `../videos/reel-machines-that-talk.mp4` | [`01-machines-that-talk/UPLOAD.md`](01-machines-that-talk/UPLOAD.md) |
 | 2 | टाटा लेजेंड्स (Hindi, 70 s) | `../videos/reel-tata-legends-hindi.mp4` | [`02-tata-legends-hindi/UPLOAD.md`](02-tata-legends-hindi/UPLOAD.md) |
+| 3 | The Next Word Game: how ChatGPT writes (English, 62 s, Game Show) | `../videos/03-next-word-game.mp4` | [`03-next-word-game/UPLOAD.md`](03-next-word-game/UPLOAD.md) |
+| 4 | UPI · दो सेकंड (Hindi, 66 s, Dark Keynote) | `../videos/04-upi-2-seconds.mp4` | [`04-upi-2-seconds/UPLOAD.md`](04-upi-2-seconds/UPLOAD.md) |
+| 5 | शून्य: India's zero (Hindi, 68 s, Swiss Motion) | `../videos/05-shunya-zero.mp4` | [`05-shunya-zero/UPLOAD.md`](05-shunya-zero/UPLOAD.md) |
+| 6 | चंद्रयान-3 as a 1920s newsreel (Hindi, 64 s) | `../videos/06-chandrayaan-3-newsreel.mp4` | [`06-chandrayaan-3-newsreel/UPLOAD.md`](06-chandrayaan-3-newsreel/UPLOAD.md) |
+| 7 | How AI Draws (English, 57 s, Whiteboard) | `../videos/07-how-ai-draws.mp4` | [`07-how-ai-draws/UPLOAD.md`](07-how-ai-draws/UPLOAD.md) |
+
+**Daily posting plan: [`SCHEDULE.md`](SCHEDULE.md)** (week 1 order, posting times, a daily routine, and topics for weeks 2–4).
 
 Each kit has: title options, copy-paste description, tags, hashtags, pinned comment, upload settings, captions (`.srt`) and the cover frame.
 

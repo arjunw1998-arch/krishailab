@@ -1,0 +1,11 @@
+UPI · दो सेकंड — what happens between scan and 'ting' (Hindi). Style: Dark Tech Keynote.
+Hosted by the owner's mascot. Channel: KrishAILab.
+
+FONTS: Hind (Indian Type Foundry) and Poppins (Indian Type Foundry), SIL OFL 1.1 — fonts/OFL-*.txt
+VOICE: Kokoro-82M (kokoro-onnx), Kokoro Hindi voice hm_omega, pitch-shifted per line (Apache 2.0 / MIT).
+HOST: the owner's mascot (projects/mascot/mascot_v1.png), line-art head layers.
+MUSIC & SOUND: original, synthesized in code for this film (engine/mix.py).
+TOOLS: lemo-opuscar (MIT) render/master tools; FFmpeg; faster-whisper for the speech check.
+Made in code: SVG pages rendered frame by frame, 1080x1920, 30 fps, -14 LUFS.
+
+NOTE: UPI, NPCI and bank names are shown as plain text only; no logos or trademarks are used. Unofficial educational video, not affiliated with NPCI.

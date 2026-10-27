@@ -1,0 +1,11 @@
+How AI Draws — text-to-image diffusion on a whiteboard (English). Style: Whiteboard Explainer.
+Hosted by the owner's mascot. Channel: KrishAILab.
+
+FONTS: Architects Daughter (Kimberly Geswein), SIL OFL 1.1; Permanent Marker (Font Diner), Apache 2.0 — fonts/
+VOICE: Kokoro-82M (kokoro-onnx), Kokoro English voice am_michael, pitch-shifted per line (Apache 2.0 / MIT).
+HOST: the owner's mascot (projects/mascot/mascot_v1.png), line-art head layers.
+MUSIC & SOUND: original, synthesized in code for this film (engine/mix.py).
+TOOLS: lemo-opuscar (MIT) render/master tools; FFmpeg; faster-whisper for the speech check.
+Made in code: SVG pages rendered frame by frame, 1080x1920, 30 fps, -14 LUFS.
+
+NOTE: AI IMAGE: the tiger picture is AI-generated with Higgsfield (gpt_image_2_5, prompt 'a Bengal tiger in Mumbai monsoon rain…', raw/tiger.png). The 'noise steps' are computed from it to illustrate diffusion; they are not the model's real intermediate steps. Disclose AI imagery when uploading.

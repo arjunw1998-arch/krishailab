@@ -1,0 +1,11 @@
+The Next Word Game — how ChatGPT writes (English). Style: Game Show Flat.
+Hosted by the owner's mascot. Channel: KrishAILab.
+
+FONT: Baloo 2 (Ek Type), SIL OFL 1.1 — fonts/OFL.txt
+VOICE: Kokoro-82M (kokoro-onnx), Kokoro English voice am_michael, pitch-shifted per line (Apache 2.0 / MIT).
+HOST: the owner's mascot (projects/mascot/mascot_v1.png), line-art head layers.
+MUSIC & SOUND: original, synthesized in code for this film (engine/mix.py).
+TOOLS: lemo-opuscar (MIT) render/master tools; FFmpeg; faster-whisper for the speech check.
+Made in code: SVG pages rendered frame by frame, 1080x1920, 30 fps, -14 LUFS.
+
+NOTE: The probabilities on the quiz board (mat 62%, rug 21%, moon 4%) and the token numbers are illustrative examples, labelled 'example odds'.

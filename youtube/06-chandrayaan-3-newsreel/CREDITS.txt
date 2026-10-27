@@ -1,0 +1,11 @@
+चंद्रयान-3 — India's Moon landing as a 1920s newsreel (Hindi). Style: 1920s Newsreel.
+Hosted by the owner's mascot. Channel: KrishAILab.
+
+FONTS: Limelight, Rozha One, Oswald, Hind — SIL OFL 1.1 — fonts/OFL-*.txt
+VOICE: Kokoro-82M (kokoro-onnx), Kokoro Hindi voice hm_omega, pitch-shifted per line (Apache 2.0 / MIT).
+HOST: the owner's mascot (projects/mascot/mascot_v1.png), line-art head layers.
+MUSIC & SOUND: original, synthesized in code for this film (engine/mix.py).
+TOOLS: lemo-opuscar (MIT) render/master tools; FFmpeg; faster-whisper for the speech check.
+Made in code: SVG pages rendered frame by frame, 1080x1920, 30 fps, -14 LUFS.
+
+NOTE: All pictures are drawn diagrams (rocket, orbits, lander, rover, spectrum); no ISRO footage or photographs are used, and none are imitated as real archive. 'ISRO' appears only as text on the drawn rocket. Unofficial educational video, not affiliated with ISRO.

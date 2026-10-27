@@ -1,0 +1,87 @@
+1
+00:00:00,384 --> 00:00:02,620
+Type: "a tiger in Mumbai rain".
+
+2
+00:00:02,620 --> 00:00:04,424
+Seconds later, a picture!
+
+3
+00:00:04,424 --> 00:00:06,372
+But AI never held a pencil.
+
+4
+00:00:06,372 --> 00:00:07,772
+So how?
+
+5
+00:00:08,975 --> 00:00:09,491
+Step 1.
+
+6
+00:00:09,491 --> 00:00:11,482
+It starts with pure static.
+
+7
+00:00:11,482 --> 00:00:13,921
+Random noise, like an old TV.
+
+8
+00:00:15,520 --> 00:00:17,900
+Step 2. It learned from millions of
+
+9
+00:00:17,900 --> 00:00:19,396
+pictures with captions
+
+10
+00:00:19,396 --> 00:00:21,028
+how to clean noise away,
+
+11
+00:00:21,028 --> 00:00:22,756
+a tiny bit at a time.
+
+12
+00:00:24,248 --> 00:00:26,905
+Step 3. Your words steer every clean-up.
+
+13
+00:00:26,905 --> 00:00:27,902
+Tiger? Stripes.
+
+14
+00:00:27,902 --> 00:00:29,302
+Rain? Drops.
+
+15
+00:00:30,657 --> 00:00:33,343
+20, 30, 50 small steps later…
+
+16
+00:00:35,020 --> 00:00:36,272
+A brand-new picture!
+
+17
+00:00:36,272 --> 00:00:38,513
+Every pixel, made just for you.
+
+18
+00:00:40,066 --> 00:00:42,468
+It didn't paint. It un-noised.
+
+19
+00:00:44,157 --> 00:00:45,616
+It's called diffusion.
+
+20
+00:00:45,616 --> 00:00:47,142
+From static to a story,
+
+21
+00:00:47,142 --> 00:00:48,702
+one step at a time.
+
+22
+00:00:52,611 --> 00:00:55,357
+Follow for more AI in 60 seconds!
